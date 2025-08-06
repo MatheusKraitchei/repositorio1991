@@ -39,8 +39,9 @@
                 A vitória não foi fácil. A Mazda competia contra potências como a Mercedes-Benz e a Jaguar. O sucesso do 787B se deveu à sua consistência e à quebra dos seus principais adversários nas últimas horas da corrida. No final, o carro de número 55 cruzou a linha de chegada duas voltas à frente do segundo colocado. Apenas Volker Weidler e Bertrand Gachot subiram ao pódio, pois o piloto Johnny Herbert, exausto e desidratado, foi levado diretamente para o centro médico.
             </p>
             <p>
-                A vitória foi um marco para a engenharia japonesa e para a tecnologia dos motores rotativos, que foram banidos da corrida no ano seguinte, tornando a conquista ainda mais lendária.
+                Também ouve bem mais carros lendários por lá, como a Mercedes Sauber C9, o Jaguar XJ9 e o Toyota ts010. Foi o último ano em que os carros podiam usar qualquer tipo de motorização, o 787b com um motor rtativo de 3 rotores, a sauber c9 com seu v8, e o ts010 com um v10... Ambos com sons lindos e com motores potentes e que faziam uma música. Hoje em dia apenas temos os v6 híbridos, tanto na formúla 1 quanto nas corridas de endurancr em geral....
             </p>
+                <img src="https://clickpetroleoegas.com.br/wp-content/uploads/2025/05/Toyota-TS010-o-carro-brutal-que-quebrava-os-ossos-dos-proprios-pilotos.jpg" alt="Toyota TS010 com meu v10 insano.">
         </section>
     </main>
 
