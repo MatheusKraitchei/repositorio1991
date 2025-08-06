@@ -30,7 +30,7 @@
             <p class="legenda">
                 O Mazda 787B com seu design inconfundível, o carro que fez história em 1991.
             </p>
-            <img src="https://via.placeholder.com/800x500" alt="Imagem do Mazda 787B vencedor em Le Mans 1991">
+            <img src="https://i1.wp.com/carroscomcamanzi.com.br/wp-content/uploads/2019/03/MAZDA-787B-04.jpg" alt="Imagem do Mazda 787B vencedor em Le Mans 1991">
         </section>
 
         <section class="conteudo">
