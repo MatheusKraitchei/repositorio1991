@@ -11,7 +11,7 @@
 
     <header>
         <h1>24 Horas de Le Mans de 1991</h1>
-        <p>A Vitória Lendária da Mazda</p>
+        <p>A Vitória Lendária da Mazda, e o último dos motores variados</p>
     </header>
 
     <main>
@@ -44,7 +44,6 @@
                 <img src="https://clickpetroleoegas.com.br/wp-content/uploads/2025/05/Toyota-TS010-o-carro-brutal-que-quebrava-os-ossos-dos-proprios-pilotos.jpg" alt="Toyota TS010 com meu v10 insano.">
         </section>
 
-        </p>
            Essa é a imagem de um toyota ts010, que depois de muitas tentativas com outros carros a toyota finalmente acertou em fazer um carro bom, que mesmo assim deu errado. O TS010 grava tanto downforce que fazia curvas com muito mais velocidade que os outros.
            Mas em 1992, na pista de Eastern Creek Raceway, enquanto a Toyota fazia testes com o carro, o piloto Andy Wallace, estava fazendo uma curva de alta velocidade, e como o carro tinha muito downforce ele azia as curvas mais rápido, que causava mais força G, naquela curva a força G foi tão grande no piloto, que  suas costelas não aguentaram e quebraram. O toyota ts010 ficou conhecido como "quebra ossos".
             </p>
