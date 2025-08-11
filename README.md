@@ -49,7 +49,7 @@
             </p>
                 <img src="https://www.lemans.org/media/cache/api_news_large/assets/fileuploads/57/4f/574f55177e368.jpeg" alt="A lendária Sauber c9, com seu v8 incrível, e som inconfundível.">
         </section>
-
+        A Sauber C9
         </p>
     </main>
 hehe
