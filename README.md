@@ -48,7 +48,13 @@
            Mas em 1992, na pista de Eastern Creek Raceway, enquanto a Toyota fazia testes com o carro, o piloto Andy Wallace, estava fazendo uma curva de alta velocidade, e como o carro tinha muito downforce ele azia as curvas mais rápido, que causava mais força G, naquela curva a força G foi tão grande no piloto, que  suas costelas não aguentaram e quebraram. O toyota ts010 ficou conhecido como "quebra ossos".
         
                 <img src="https://www.lemans.org/media/cache/api_news_large/assets/fileuploads/57/4f/574f55177e368.jpeg" alt="A lendária Sauber c9, com seu v8 incrível, e som inconfundível.">
+        </section>
+                
         A lendária Sauber c9, com seu v8 incrível, e som inconfundível
+        </p>
+        <iframe width="560" height="315" src="https://youtu.be/am68lQsoNaI?si=Ejmsg3EqZuyzK2y1" 
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; 
+picture-in-picture" allowfullscreen></iframe>
 
     </main>
     
